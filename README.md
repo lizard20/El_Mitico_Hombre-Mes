@@ -5,6 +5,6 @@
 
  Para cualquie comentario, sugerencia o errores, pueden escribirme a:
 
- anunez20@gmail.com
+ anunez20@hotmail.com
 
  con el subject: tmmm
