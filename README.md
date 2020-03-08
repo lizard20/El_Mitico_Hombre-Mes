@@ -5,7 +5,9 @@
 
  Para cualquier comentario, sugerencia o errores, pueden escribirme a:
 
-  aldo.nunez@yandex.com, con el subject: tmmm
+  aldo.nunez@yandex.com, 
+  
+  con el subject: tmmm
 <p align="center">
 <img src="portada.png" width="400" height="600">
 </p>
