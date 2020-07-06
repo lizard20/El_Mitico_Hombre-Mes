@@ -9,5 +9,5 @@
   
   con el subject: tmmm
 <p align="center">
-<img src="portada.pdf" width="400" height="600">
+<img src="portada.png" width="400" height="600">
 </p>
