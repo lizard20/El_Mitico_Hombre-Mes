@@ -11,3 +11,7 @@
 <p align="center">
 <img src="portada.png" width="578" height="808">
 </p>
+
+Enlace alternativo para descargar:
+
+[Click para descargar](https://drive.google.com/drive/my-drive)
