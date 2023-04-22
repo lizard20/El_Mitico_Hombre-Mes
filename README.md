@@ -9,9 +9,6 @@
   
   con el subject: tmmm
 
-Enlace alternativo para descargar:
-
-[Click para descargar](https://drive.google.com/drive/my-drive)
 
 <p align="center">
 <img src="portada.png" width="578" height="808">
