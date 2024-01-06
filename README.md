@@ -9,6 +9,9 @@
   
   con el subject: tmmm
 
+ Para decargar el libro:
+ $ git clone
+
 Enlace alternativo para descargar el libro: 
 
 [Click para descargar](https://drive.google.com/file/d/1u93PeHRWUm1fGGlrfPxd6Ck6FMOQpuqs/view?usp=share_link)
