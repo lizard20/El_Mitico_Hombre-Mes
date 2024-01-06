@@ -10,7 +10,8 @@
   con el subject: tmmm
 
  Para decargar el libro:
- $ git clone
+ 
+ $ git clone https://github.com/lizard20/El_Mitico_Hombre-Mes.git
 
 Enlace alternativo para descargar el libro: 
 
